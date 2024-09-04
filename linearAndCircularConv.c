@@ -2,6 +2,7 @@
 #include<math.h>
 int i,j,g[30],h[30],y[60];
 int main(){
+    //ploting grpah use y (variable) in place of hexa address
     int n,m,size;
     for(i=0;i<30;i++){
         g[i]=0;
